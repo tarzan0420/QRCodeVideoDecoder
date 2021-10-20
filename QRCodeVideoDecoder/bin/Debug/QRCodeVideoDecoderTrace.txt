@@ -1,0 +1,374 @@
+2021/10/12 17:10:29 ----
+2021/10/12 17:10:55 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:48:21 ----
+2021/10/13 14:48:21 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:48:22 Image width: 640, Height: 480
+2021/10/13 14:48:22 Convert image to black and white
+2021/10/13 14:48:22 Time: 0
+2021/10/13 14:48:22 Finders search
+2021/10/13 14:48:22 Horizontal Finders count: 89
+2021/10/13 14:48:22 Matched Finders count: 12
+2021/10/13 14:48:22 Remove all unused finders
+2021/10/13 14:48:22 Time: 15
+2021/10/13 14:48:22 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:48:22 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:22 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:22 Search for QR corners
+2021/10/13 14:48:22 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:48:22 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:22 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:22 Initial version number: 19, dimension: 93
+2021/10/13 14:48:22 Version code exact match: 13532, Version: 19
+2021/10/13 14:48:22 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:48:22 Decode QR code using three finders
+2021/10/13 14:48:22 Fixed modules no error
+2021/10/13 14:48:22 No data errors
+2021/10/13 14:48:22 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:48:22 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:48:22 Time: 15
+2021/10/13 14:48:41 ----
+2021/10/13 14:48:41 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:48:42 Image width: 640, Height: 480
+2021/10/13 14:48:42 Convert image to black and white
+2021/10/13 14:48:42 Time: 0
+2021/10/13 14:48:42 Finders search
+2021/10/13 14:48:42 Horizontal Finders count: 89
+2021/10/13 14:48:42 Matched Finders count: 12
+2021/10/13 14:48:42 Remove all unused finders
+2021/10/13 14:48:42 Time: 15
+2021/10/13 14:48:42 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:48:42 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:42 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:42 Search for QR corners
+2021/10/13 14:48:42 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:48:42 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:42 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:48:42 Initial version number: 19, dimension: 93
+2021/10/13 14:48:42 Version code exact match: 13532, Version: 19
+2021/10/13 14:48:42 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:48:42 Decode QR code using three finders
+2021/10/13 14:48:42 Fixed modules no error
+2021/10/13 14:48:42 No data errors
+2021/10/13 14:48:42 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:48:42 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:48:42 Time: 15
+2021/10/13 14:50:15 ----
+2021/10/13 14:50:15 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:50:16 Image width: 640, Height: 480
+2021/10/13 14:50:16 Convert image to black and white
+2021/10/13 14:50:16 Time: 0
+2021/10/13 14:50:16 Finders search
+2021/10/13 14:50:16 Horizontal Finders count: 89
+2021/10/13 14:50:16 Matched Finders count: 12
+2021/10/13 14:50:16 Remove all unused finders
+2021/10/13 14:50:16 Time: 16
+2021/10/13 14:50:16 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:50:16 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:16 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:16 Search for QR corners
+2021/10/13 14:50:16 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:50:16 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:16 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:16 Initial version number: 19, dimension: 93
+2021/10/13 14:50:16 Version code exact match: 13532, Version: 19
+2021/10/13 14:50:16 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:50:16 Decode QR code using three finders
+2021/10/13 14:50:16 Fixed modules no error
+2021/10/13 14:50:16 No data errors
+2021/10/13 14:50:16 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:50:16 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:50:16 Time: 16
+2021/10/13 14:50:17 Image width: 640, Height: 480
+2021/10/13 14:50:17 Convert image to black and white
+2021/10/13 14:50:17 Time: 16
+2021/10/13 14:50:17 Finders search
+2021/10/13 14:50:17 Horizontal Finders count: 89
+2021/10/13 14:50:17 Matched Finders count: 12
+2021/10/13 14:50:17 Remove all unused finders
+2021/10/13 14:50:17 Time: 32
+2021/10/13 14:50:17 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:50:17 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:17 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:17 Search for QR corners
+2021/10/13 14:50:17 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:50:17 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:17 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:17 Initial version number: 19, dimension: 93
+2021/10/13 14:50:17 Version code exact match: 13532, Version: 19
+2021/10/13 14:50:17 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:50:17 Decode QR code using three finders
+2021/10/13 14:50:17 Fixed modules no error
+2021/10/13 14:50:17 No data errors
+2021/10/13 14:50:17 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:50:17 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:50:17 Time: 32
+2021/10/13 14:50:18 Image width: 640, Height: 480
+2021/10/13 14:50:18 Convert image to black and white
+2021/10/13 14:50:18 Time: 32
+2021/10/13 14:50:18 Finders search
+2021/10/13 14:50:18 Horizontal Finders count: 89
+2021/10/13 14:50:18 Matched Finders count: 12
+2021/10/13 14:50:18 Remove all unused finders
+2021/10/13 14:50:18 Time: 47
+2021/10/13 14:50:18 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:50:18 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:18 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:18 Search for QR corners
+2021/10/13 14:50:18 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:50:18 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:18 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:50:18 Initial version number: 19, dimension: 93
+2021/10/13 14:50:18 Version code exact match: 13532, Version: 19
+2021/10/13 14:50:18 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:50:18 Decode QR code using three finders
+2021/10/13 14:50:18 Fixed modules no error
+2021/10/13 14:50:18 No data errors
+2021/10/13 14:50:18 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:50:18 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:50:18 Time: 47
+2021/10/13 14:53:00 ----
+2021/10/13 14:53:00 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:53:01 Image width: 640, Height: 480
+2021/10/13 14:53:01 Convert image to black and white
+2021/10/13 14:53:01 Time: 0
+2021/10/13 14:53:01 Finders search
+2021/10/13 14:53:01 Horizontal Finders count: 89
+2021/10/13 14:53:01 Matched Finders count: 12
+2021/10/13 14:53:01 Remove all unused finders
+2021/10/13 14:53:01 Time: 16
+2021/10/13 14:53:01 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:53:01 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:53:01 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:53:01 Search for QR corners
+2021/10/13 14:53:01 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:53:01 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:53:01 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:53:01 Initial version number: 19, dimension: 93
+2021/10/13 14:53:01 Version code exact match: 13532, Version: 19
+2021/10/13 14:53:01 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:53:01 Decode QR code using three finders
+2021/10/13 14:53:01 Fixed modules no error
+2021/10/13 14:53:01 No data errors
+2021/10/13 14:53:01 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:53:01 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:53:01 Time: 32
+2021/10/13 14:56:24 ----
+2021/10/13 14:56:24 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:56:24 Image width: 640, Height: 480
+2021/10/13 14:56:24 Convert image to black and white
+2021/10/13 14:56:24 Time: 16
+2021/10/13 14:56:24 Finders search
+2021/10/13 14:56:24 Horizontal Finders count: 7
+2021/10/13 14:56:24 Matched Finders count: 0
+2021/10/13 14:56:24 Remove all unused finders
+2021/10/13 14:56:24 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:24 Image width: 640, Height: 480
+2021/10/13 14:56:24 Convert image to black and white
+2021/10/13 14:56:24 Time: 15
+2021/10/13 14:56:24 Finders search
+2021/10/13 14:56:24 Horizontal Finders count: 7
+2021/10/13 14:56:24 Matched Finders count: 0
+2021/10/13 14:56:24 Remove all unused finders
+2021/10/13 14:56:24 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:25 Image width: 640, Height: 480
+2021/10/13 14:56:25 Convert image to black and white
+2021/10/13 14:56:25 Time: 16
+2021/10/13 14:56:25 Finders search
+2021/10/13 14:56:25 Horizontal Finders count: 7
+2021/10/13 14:56:25 Matched Finders count: 0
+2021/10/13 14:56:25 Remove all unused finders
+2021/10/13 14:56:25 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:25 Image width: 640, Height: 480
+2021/10/13 14:56:25 Convert image to black and white
+2021/10/13 14:56:25 Time: 16
+2021/10/13 14:56:25 Finders search
+2021/10/13 14:56:25 Horizontal Finders count: 7
+2021/10/13 14:56:25 Matched Finders count: 0
+2021/10/13 14:56:25 Remove all unused finders
+2021/10/13 14:56:25 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:25 Image width: 640, Height: 480
+2021/10/13 14:56:25 Convert image to black and white
+2021/10/13 14:56:25 Time: 15
+2021/10/13 14:56:25 Finders search
+2021/10/13 14:56:25 Horizontal Finders count: 7
+2021/10/13 14:56:25 Matched Finders count: 0
+2021/10/13 14:56:25 Remove all unused finders
+2021/10/13 14:56:25 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:25 Image width: 640, Height: 480
+2021/10/13 14:56:25 Convert image to black and white
+2021/10/13 14:56:25 Time: 0
+2021/10/13 14:56:25 Finders search
+2021/10/13 14:56:25 Horizontal Finders count: 7
+2021/10/13 14:56:25 Matched Finders count: 0
+2021/10/13 14:56:25 Remove all unused finders
+2021/10/13 14:56:25 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:26 Image width: 640, Height: 480
+2021/10/13 14:56:26 Convert image to black and white
+2021/10/13 14:56:26 Time: 16
+2021/10/13 14:56:26 Finders search
+2021/10/13 14:56:26 Horizontal Finders count: 7
+2021/10/13 14:56:26 Matched Finders count: 0
+2021/10/13 14:56:26 Remove all unused finders
+2021/10/13 14:56:26 Remove unmatched finders. Less than 3 finders found
+2021/10/13 14:56:47 ----
+2021/10/13 14:56:47 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 14:56:47 Image width: 640, Height: 480
+2021/10/13 14:56:47 Convert image to black and white
+2021/10/13 14:56:47 Time: 16
+2021/10/13 14:56:47 Finders search
+2021/10/13 14:56:47 Horizontal Finders count: 89
+2021/10/13 14:56:47 Matched Finders count: 12
+2021/10/13 14:56:47 Remove all unused finders
+2021/10/13 14:56:47 Time: 16
+2021/10/13 14:56:47 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:56:47 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:56:47 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:56:47 Search for QR corners
+2021/10/13 14:56:47 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 14:56:47 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 14:56:47 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 14:56:47 Initial version number: 19, dimension: 93
+2021/10/13 14:56:47 Version code exact match: 13532, Version: 19
+2021/10/13 14:56:47 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 14:56:47 Decode QR code using three finders
+2021/10/13 14:56:47 Fixed modules no error
+2021/10/13 14:56:47 No data errors
+2021/10/13 14:56:47 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 14:56:47 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 14:56:47 Time: 31
+2021/10/13 18:05:43 ----
+2021/10/13 18:05:43 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 18:05:43 Image width: 640, Height: 480
+2021/10/13 18:05:43 Convert image to black and white
+2021/10/13 18:05:43 Time: 0
+2021/10/13 18:05:43 Finders search
+2021/10/13 18:05:43 Horizontal Finders count: 7
+2021/10/13 18:05:43 Matched Finders count: 0
+2021/10/13 18:05:43 Remove all unused finders
+2021/10/13 18:05:43 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:43 Image width: 640, Height: 480
+2021/10/13 18:05:43 Convert image to black and white
+2021/10/13 18:05:43 Time: 15
+2021/10/13 18:05:43 Finders search
+2021/10/13 18:05:43 Horizontal Finders count: 7
+2021/10/13 18:05:43 Matched Finders count: 0
+2021/10/13 18:05:43 Remove all unused finders
+2021/10/13 18:05:43 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:43 Image width: 640, Height: 480
+2021/10/13 18:05:43 Convert image to black and white
+2021/10/13 18:05:44 Time: 16
+2021/10/13 18:05:44 Finders search
+2021/10/13 18:05:44 Horizontal Finders count: 7
+2021/10/13 18:05:44 Matched Finders count: 0
+2021/10/13 18:05:44 Remove all unused finders
+2021/10/13 18:05:44 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:44 Image width: 640, Height: 480
+2021/10/13 18:05:44 Convert image to black and white
+2021/10/13 18:05:44 Time: 15
+2021/10/13 18:05:44 Finders search
+2021/10/13 18:05:44 Horizontal Finders count: 7
+2021/10/13 18:05:44 Matched Finders count: 0
+2021/10/13 18:05:44 Remove all unused finders
+2021/10/13 18:05:44 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:44 Image width: 640, Height: 480
+2021/10/13 18:05:44 Convert image to black and white
+2021/10/13 18:05:44 Time: 16
+2021/10/13 18:05:44 Finders search
+2021/10/13 18:05:44 Horizontal Finders count: 7
+2021/10/13 18:05:44 Matched Finders count: 0
+2021/10/13 18:05:44 Remove all unused finders
+2021/10/13 18:05:44 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:44 Image width: 640, Height: 480
+2021/10/13 18:05:44 Convert image to black and white
+2021/10/13 18:05:44 Time: 16
+2021/10/13 18:05:44 Finders search
+2021/10/13 18:05:44 Horizontal Finders count: 7
+2021/10/13 18:05:44 Matched Finders count: 0
+2021/10/13 18:05:44 Remove all unused finders
+2021/10/13 18:05:44 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:44 Image width: 640, Height: 480
+2021/10/13 18:05:44 Convert image to black and white
+2021/10/13 18:05:44 Time: 15
+2021/10/13 18:05:44 Finders search
+2021/10/13 18:05:44 Horizontal Finders count: 7
+2021/10/13 18:05:44 Matched Finders count: 0
+2021/10/13 18:05:44 Remove all unused finders
+2021/10/13 18:05:44 Remove unmatched finders. Less than 3 finders found
+2021/10/13 18:05:56 ----
+2021/10/13 18:05:56 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 18:05:56 Image width: 640, Height: 480
+2021/10/13 18:05:56 Convert image to black and white
+2021/10/13 18:05:56 Time: 0
+2021/10/13 18:05:56 Finders search
+2021/10/13 18:05:56 Horizontal Finders count: 89
+2021/10/13 18:05:56 Matched Finders count: 12
+2021/10/13 18:05:56 Remove all unused finders
+2021/10/13 18:05:56 Time: 16
+2021/10/13 18:05:56 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 18:05:56 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 18:05:56 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 18:05:56 Search for QR corners
+2021/10/13 18:05:56 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 18:05:56 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 18:05:56 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 18:05:56 Initial version number: 19, dimension: 93
+2021/10/13 18:05:56 Version code exact match: 13532, Version: 19
+2021/10/13 18:05:56 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 18:05:56 Decode QR code using three finders
+2021/10/13 18:05:56 Fixed modules no error
+2021/10/13 18:05:56 No data errors
+2021/10/13 18:05:56 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 18:05:56 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 18:05:56 Time: 31
+2021/10/13 18:10:48 ----
+2021/10/13 18:10:48 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 18:10:49 Image width: 640, Height: 480
+2021/10/13 18:10:49 Convert image to black and white
+2021/10/13 18:10:49 Time: 0
+2021/10/13 18:10:49 Finders search
+2021/10/13 18:10:49 Horizontal Finders count: 89
+2021/10/13 18:10:49 Matched Finders count: 12
+2021/10/13 18:10:49 Remove all unused finders
+2021/10/13 18:10:49 Time: 0
+2021/10/13 18:10:49 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 18:10:49 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 18:10:49 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 18:10:49 Search for QR corners
+2021/10/13 18:10:49 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 18:10:49 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 18:10:49 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 18:10:49 Initial version number: 19, dimension: 93
+2021/10/13 18:10:49 Version code exact match: 13532, Version: 19
+2021/10/13 18:10:49 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 18:10:49 Decode QR code using three finders
+2021/10/13 18:10:49 Fixed modules no error
+2021/10/13 18:10:49 No data errors
+2021/10/13 18:10:49 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 18:10:49 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 18:10:49 Time: 16
+2021/10/13 18:17:05 ----
+2021/10/13 18:17:05 QRCodeVideoDecoder - Rev 2.0.0 - 2019-05-15 © 2013-2018 Uzi Granot. All rights reserved.
+2021/10/13 18:17:05 Image width: 640, Height: 480
+2021/10/13 18:17:05 Convert image to black and white
+2021/10/13 18:17:05 Time: 0
+2021/10/13 18:17:05 Finders search
+2021/10/13 18:17:05 Horizontal Finders count: 89
+2021/10/13 18:17:05 Matched Finders count: 12
+2021/10/13 18:17:05 Remove all unused finders
+2021/10/13 18:17:05 Time: 15
+2021/10/13 18:17:05 Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 18:17:05 Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 18:17:05 Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 18:17:05 Search for QR corners
+2021/10/13 18:17:05 Decode Corner: Top Left:    Finder: Row: 60, Col: 150, Module: 4.14, Distance: 0.00
+2021/10/13 18:17:05 Decode Corner: Top Right:   Finder: Row: 60, Col: 504, Module: 4.14, Distance: 0.50
+2021/10/13 18:17:05 Decode Corner: Bottom Left: Finder: Row: 414, Col: 150, Module: 4.14, Distance: 0.50
+2021/10/13 18:17:05 Initial version number: 19, dimension: 93
+2021/10/13 18:17:05 Version code exact match: 13532, Version: 19
+2021/10/13 18:17:05 Format info exact match: 3F31, EC: Q, mask: 2
+2021/10/13 18:17:05 Decode QR code using three finders
+2021/10/13 18:17:05 Fixed modules no error
+2021/10/13 18:17:05 No data errors
+2021/10/13 18:17:05 Version: 19, Dim: 93, ErrCorr: Q, Generator: 26, Mask: 2, Group1: 17:21, Group2: 4:22
+2021/10/13 18:17:05 Data: HC1:NCFOXN%TS3DH3ZSUZK+.V0ETD%65NL-AH-R6IOO6+IUKRG*I.I5BROCWAAT4V22F/8X*G3M9JUPY0BX/KR96R/S09T./0LWTKD33236J3TA3M*4VV2 73-E3GG396B-43O058YIB73A*G3W19UEBY5:PI0EGSP4*2DN43U*0CEBQ/GXQFY73CIBC:G 7376BXBJBAJ UNFMJCRN0H3PQN*E33H3OA70M3FMJIJN523.K5QZ4A+2XEN QT QTHC31M3+E32R44$28A9H0D3ZCL4JMYAZ+S-A5$XKX6T2YC 35H/ITX8GL2-LH/CJTK96L6SR9MU9RFGJA6Q3QR$P2OIC0JVLA8J3ET3:H3A+2+33U SAAUOT3TPTO4UBZIC0JKQTL*QDKBO.AI9BVYTOCFOPS4IJCOT0$89NT2V457U8+9W2KQ-7LF9-DF07U$B97JJ1D7WKP/HLIJLRKF1MFHJP7NVDEBU1J*Z222E.GJF67Z JA6B.38O4BH*HB0EGLE2%V -3O+J3.PI2G:M1SSP2Y3D38-G9C+Q3OT/.J1CDLKOYUV5C3W1A:75S4LB:6REPKM3ZYO4+QDNDLT2*ESLIH
+2021/10/13 18:17:05 Time: 15
